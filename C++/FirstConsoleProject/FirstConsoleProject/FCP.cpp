@@ -6,9 +6,6 @@
 #include <cstdlib>
 #include <string>
 
-//I rather declare main once than declare all functions before main, not sure if it is or not best practice
-int main();
-
 //Basic calculator, want to make a graphic better version 
 int calculator()
 {
